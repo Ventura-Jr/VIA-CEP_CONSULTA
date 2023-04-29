@@ -12,9 +12,4 @@ O ViaCep foi desenvolvido utilizando as seguintes tecnologias:
 </div>
 
 # Autor
-<<<<<<< HEAD
 O ViaCep foi desenvolvido por [Ventura Jr], aluno do Bootcamp da IBRF<>Tech em parceria com a Gama Academy, seguindo as aulas online do professor Claudio Raposo.
-=======
-O ViaCep foi desenvolvido por [Ventura Jr], aluno do Bootcamp da IBRF<>Tech em parceria com a Gama Academy, seguindo as aulas online do professor Claudio Raposo.
-
->>>>>>> 0c1f87123044c39940a455433eeb8adf5917633d
